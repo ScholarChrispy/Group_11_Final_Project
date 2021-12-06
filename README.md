@@ -1,4 +1,7 @@
-﻿The Global Nature of Happiness
+﻿
+ (NOTE: To get the proper representation of this document, please refer to the 'Blog Post Report (README).pdf' document.)
+ 
+ The Global Nature of Happiness
 
 
 About Us
