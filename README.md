@@ -7,9 +7,9 @@
 About Us
 
 
-Salim Bhana: xSalim1
-Christopher Johnson: ScholarChrispy
-James Currie: JamesCurrie1
+- Salim Bhana: xSalim1
+- Christopher Johnson: ScholarChrispy
+- James Currie: JamesCurrie1
 
 
 Introduction
