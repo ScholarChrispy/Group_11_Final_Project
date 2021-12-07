@@ -60,7 +60,7 @@ README
 How to use our work:
 
 
-1. Download the main Jupyter notebook from the repository
+1. Download the main Jupyter notebook from the repository ("Final_Project.ipynb")
 2. Download the data from the repository, and ensure that it is in a folder called “world_happiness_data”, and the folder is in the same directory as the notebook.
    * Note: You MUST use the data from the repository, as it is a modified
         version of the data from the original source. Using the data directly
