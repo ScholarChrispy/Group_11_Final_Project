@@ -65,4 +65,4 @@ How to use our work:
    * Note: You MUST use the data from the repository, as it is a modified
         version of the data from the original source. Using the data directly
         from the Kaggle site will cause errors.
-   3. Ensure you are running the code in the notebook with a moderately new version of Python (Python 3 or above was used for our work).
+3. Ensure you are running the code in the notebook with a moderately new version of Python (Python 3 or above was used for our work).
